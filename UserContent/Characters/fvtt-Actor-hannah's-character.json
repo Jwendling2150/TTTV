@@ -1,5 +1,5 @@
 {
-  "name": "Jon's Character",
+  "name": "Hannah's Character",
   "type": "character",
   "img": "icons/svg/mystery-man.svg",
   "data": {
@@ -399,7 +399,7 @@
     }
   },
   "token": {
-    "name": "Jon's Character",
+    "name": "Hannah's Character",
     "img": "icons/svg/mystery-man.svg",
     "displayName": 0,
     "actorLink": true,
@@ -451,7 +451,7 @@
   "effects": [],
   "flags": {
     "exportSource": {
-      "world": "trials",
+      "world": "TTTV",
       "system": "dnd5e",
       "coreVersion": "9.269",
       "systemVersion": "1.6.3"
